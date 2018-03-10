@@ -2,5 +2,6 @@
 Starter
 Yo, what's up y'all!!
 It's me Phat, yo man is here!!!!
-int x = 1;
-cout << x;
+I feel you my dude.
+int x = 6;
+cout << x+1;
